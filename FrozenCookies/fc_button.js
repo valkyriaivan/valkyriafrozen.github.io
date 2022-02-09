@@ -324,7 +324,7 @@ function FCMenu() {
     }
 
     subsection.append(
-      buildListing("Next Purchase", recommendation.purchase.name)
+      buildListing("Comeme los huevos", recommendation.purchase.name)
     );
     if (isChained) {
       subsection.append(
